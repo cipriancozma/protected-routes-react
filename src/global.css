@@ -1,0 +1,14 @@
+@import "~tachyons/css/tachyons.min.css";
+
+a {
+    color: #000;
+    text-decoration: none;
+}
+
+a:hover {
+    color: blue;
+}
+
+.sidebar {
+    border-right: 1px solid rgba(0, 0, 0, 0.1);
+}
